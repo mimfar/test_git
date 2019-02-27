@@ -1,3 +1,3 @@
-this is the second file.
+this is the second _file_.
 let's change it and see how diff works.
 
