@@ -1,7 +1,7 @@
 hey, let's make a commit!
 
-changing this _file_ to see the tracking.
+changing this __file__ to see the tracking.
 I am adding couple of lines here.
 Then I will commit these lines as a change set.
-Then I am going to go back to this _file_, press enter at the end of line one.
+Then I am going to go back to this __file__, press enter at the end of line one.
 I am going to see how diff works!
