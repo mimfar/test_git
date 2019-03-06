@@ -3,3 +3,4 @@ let's change it and see how diff works.
 let's change it under the new_branch
 push to remote
 This line is added in remote (github)
+Add this line in master and commit. 
